@@ -1,0 +1,23 @@
+# Gradle / build output
+.gradle/
+build/
+out/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Environment and secrets
+.env
+
+# Logs
+*.log
